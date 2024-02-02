@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+## Mini-Blog 
+본 프로젝트는 React 강의 목적으로 만들어진 미니 블로그입니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
